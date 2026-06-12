@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Kirankumar Dafda
 
-<!--
-**KirankumarDafda/KirankumarDafda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Lead Software Engineer | React.js | Frontend Architecture | 10+ Years Experience
 
-Here are some ideas to get you started:
+- 🔭 Currently working on React applications
+- 🌱 Learning System Design & AI
+- 💬 Ask me about React, JavaScript, TypeScript
+- 📫 Reach me: your-email@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=KirankumarDafda&show_icons=true)
+
+## 🔥 GitHub Streak
+
+[![Streak](https://streak-stats.demolab.com?user=KirankumarDafda)](https://git.io/streak-stats)
+
+## 📫 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/dafdakiran)
