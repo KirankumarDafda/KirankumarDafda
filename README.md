@@ -6,7 +6,7 @@
 
 Building scalable, performant, and user-focused web applications with modern frontend technologies.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Frontend+Engineer;React+Developer;TypeScript+Enthusiast;Building+Products+That+Matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Frontend+Engineer;React+Developer;Building+Products+That+Matter" alt="Typing SVG" />
 
 </div>
 
