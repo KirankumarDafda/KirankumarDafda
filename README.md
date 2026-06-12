@@ -68,15 +68,15 @@ I'm a frontend-focused Software Engineer passionate about creating high-quality 
 
 <p align="left">
 
-<a href="https://www.dafdakiran.in" target="_blank">
+<a href="https://www.dafdakiran.in" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Website-blue?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/KirankumarDafda" target="_blank">
+<a href="https://github.com/KirankumarDafda" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://linkedin.com/in/dafdakiran" target="_blank">
+<a href="https://linkedin.com/in/dafdakiran" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
